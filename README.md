@@ -19,7 +19,7 @@
 <br>
   
 <h2 align="center">
-  <a href="https://github.com/AMitchell-GitHub/GoogleSheetsDiscordBot_v3/releases/latest">Download here</a>
+  <a href="https://github.com/AMitchell-GitHub/GoogleSheetsDiscordBot_v3/releases/download/v3.0/Google.Sheets.Bot.zip">Download .zip</a>
   <br>
   <br>
   <a href="https://youtu.be/aZ9in0_w46U">YouTube Tutorial</a>

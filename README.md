@@ -25,5 +25,11 @@
   <a href="https://youtu.be/aZ9in0_w46U">YouTube Tutorial</a>
 </h2>
 
+### Contact me
+If you mess up or you want some additional help, hit me up at any of the following! [Discord preffered]<br>
+Discord: AMitchell#6193<br>
+E-Mail: mitchellaidan2@gmail.com<br>
+Steam: https://steamcommunity.com/id/AMitchellSteam
+
 ### License
 If you use this somewhere other than private use, please give me some credit!
